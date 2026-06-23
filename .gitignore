@@ -6,3 +6,4 @@ agent-index.sqlite-*
 .env
 package-lock.json
 workspace
+workspace/
